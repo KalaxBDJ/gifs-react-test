@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: system-ui;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+span {
+    font-weight: bold;
+}
+
+button {
+    margin: 15px;
+}
