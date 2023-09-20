@@ -10,7 +10,7 @@ Tambien podras encontrar la prueba desplegada en la siguiente [URL](https://kala
 
 ## Requisitos Tecnicos
 + Traer una palabra aleatoria de la siguiente [API](https://random-word-api.herokuapp.com)
-+ Con la palabra aleatoria traer un gif relacionado a esa palabra de la siguiente [API](https://api.giphy.com/v1/gifs)
++ Con la palabra aleatoria traer un gif relacionado a esa palabra de la siguiente [API](https://developers.giphy.com/explorer/)
 + Se valora el uso de custom hooks
 + Usar estados
 + OBLIGATORIO el uso de efectos para las llamadas a las APIS
